@@ -8,7 +8,6 @@ Sou acadêmico de Ciência da Computação pelo Instituto Federal Goiano no últ
 [![Matheus GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusW166&show_icons=true&theme=dracula)](https://github.com/MatheusW166)
 
 ## Tecnologias que mais utilizo
-<br>
 
 [![Mais utilizadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusW166&layout=compact)](https://github.com/MatheusW166)
 
