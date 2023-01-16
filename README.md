@@ -1,5 +1,5 @@
 # Olá! Eu sou o Matheus Wagner 😸
-Sou acadêmico de Ciência da Computação pelo IFGoiano no último período, atualmente estou cursando a formação web full stack da <a href="https://www.driven.com.br/" target="_blank">Driven</a> na T10.
+Sou acadêmico de Ciência da Computação pelo Instituto Federal Goiano no último período, atualmente estou cursando a formação web full stack da <a href="https://www.driven.com.br/" target="_blank">Driven</a> na T10.
 
 <br>
 
