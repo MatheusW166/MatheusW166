@@ -5,12 +5,12 @@ Sou acadêmico de Ciência da Computação pelo Instituto Federal Goiano no últ
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathw.svg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-wagner-dos-santos-martins-718937141)
 
-[![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusW166&show_icons=true&theme=dracula)](https://github.com/MatheusW166)
+[![Matheus GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusW166&show_icons=true&theme=dracula)](https://github.com/MatheusW166)
 
 ## Tecnologias que mais utilizo
 <br>
 
-[![Mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusW166&layout=compact)](https://github.com/MatheusW166)
+[![Mais utilizadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusW166&layout=compact)](https://github.com/MatheusW166)
 
 <div style="display:inline_block">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
