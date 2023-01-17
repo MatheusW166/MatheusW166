@@ -21,4 +21,4 @@ Sou acadêmico de Ciência da Computação pelo Instituto Federal Goiano no últ
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br>
 
-Apaixonado por tecnologia e desafios, em uma busca insaciável por conhecimento.
+Apaixonado por tecnologia e desafios, sempre buscando melhorar e aprender.
