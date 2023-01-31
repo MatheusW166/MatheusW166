@@ -1,16 +1,14 @@
-## Hello World! I'am Matheus Wagner 😸
-I'm a Computer Science student at the Instituto Federal Goiano in the last period. Currently attending the full stack web course at <a href="https://www.driven.com.br/" target="_blank">Driven Education</a>.
+### Hello World, I'm Matheus Wagner 😸
+I'm a full stack developer and Computer Science student at the Instituto Federal Goiano in the last period
+<br/>
 
-<br>
+## Passionate about technology and challenges, always looking to improve and learn
+- 📚 Currently attending the full stack web course at <a href="https://www.driven.com.br/" target="_blank">Driven Education</a>
 
+### How to reach me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathw.svg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-wagner-dos-santos-martins-718937141)
 
-[![Matheus GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusW166&show_icons=true&theme=dracula)](https://github.com/MatheusW166)
-
-## Stack
-
-[![Mais utilizadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusW166&theme=dracula&layout=compact)](https://github.com/MatheusW166)
-
+### Stack
 <div style="display:inline_block">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,6 +23,17 @@ I'm a Computer Science student at the Instituto Federal Goiano in the last perio
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</div><br>
+</div>
+<br/>
 
-Passionate about technology and challenges, always looking to improve and learn.
+<details>
+    <summary>⚡ Most Used Languages</summary>
+    <br/>
+    <img alt="most-used" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusW166&theme=dracula&layout=compact"/>
+</details>
+
+<details>
+    <summary>⚡ GitHub Stats</summary>
+    <br/>
+    <img alt="stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusW166&show_icons=true&theme=dracula"/>
+</details>
