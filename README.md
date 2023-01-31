@@ -9,7 +9,7 @@ Sou acadêmico de Ciência da Computação pelo Instituto Federal Goiano no últ
 
 ## Tecnologias que mais utilizo
 
-[![Mais utilizadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusW166&layout=compact)](https://github.com/MatheusW166)
+[![Mais utilizadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusW166&theme=dracula&layout=compact)](https://github.com/MatheusW166)
 
 <div style="display:inline_block">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
