@@ -1,10 +1,11 @@
-## Hello World, I'm Matheus Wagner 😸
-#### Passionate about solving problems with technology
+<h2 align="center">Hello World, I'm Matheus Wagner 😸</h2>
+
 - 💻 Full stack developer 
 - 🔬 Computer Science student in the last period
 - 📚 Currently attending the full stack web course at <a href="https://www.driven.com.br/" target="_blank">Driven 
 Education</a>
 - 💭 Always looking to improve and learn
+- ♥ Passionate about solving problems with technology
 
 ### How to reach me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathw.svg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-wagner-dos-santos-martins-718937141)
