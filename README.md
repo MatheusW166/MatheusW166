@@ -1,5 +1,5 @@
-## Olá! Eu sou o Matheus Wagner 😸
-Sou acadêmico de Ciência da Computação pelo Instituto Federal Goiano no último período, atualmente estou cursando a formação web full stack da <a href="https://www.driven.com.br/" target="_blank">Driven</a> na T10.
+## Hello World! I'am Matheus Wagner 😸
+I'm a Computer Science student at the Instituto Federal Goiano in the last period. Currently attending the full stack web course at <a href="https://www.driven.com.br/" target="_blank">Driven Education</a>.
 
 <br>
 
@@ -27,4 +27,4 @@ Sou acadêmico de Ciência da Computação pelo Instituto Federal Goiano no últ
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div><br>
 
-Apaixonado por tecnologia e desafios, sempre buscando melhorar e aprender.
+Passionate about technology and challenges, always looking to improve and learn.
