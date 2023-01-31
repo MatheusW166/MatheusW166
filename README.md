@@ -1,5 +1,5 @@
 ## Hello World, I'm Matheus Wagner 😸
-#### Passionate about technology and challenges
+#### Passionate about solving problems with technology
 - 💻 Full stack developer 
 - 🔬 Computer Science student in the last period
 - 📚 Currently attending the full stack web course at <a href="https://www.driven.com.br/" target="_blank">Driven 
