@@ -26,13 +26,13 @@ Education</a>
 </div>
 <br/>
 
-<details>
+<details open>
     <summary>⚡ Linguagens que mais utilizo</summary>
     <br/>
     <img alt="most-used" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusW166&theme=dracula&layout=compact"/>
 </details>
 
-<details>
+<details open>
     <summary>⚡ Status do GitHub</summary>
     <br/>
     <img alt="stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusW166&show_icons=true&theme=dracula"/>
