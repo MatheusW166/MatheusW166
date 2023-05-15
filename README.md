@@ -1,16 +1,16 @@
-<h2 align="center">Hello World, I'm Matheus Wagner 😸</h2>
+<h2 align="center">Olá mundo, eu sou Matheus Wagner 😸</h2>
 
-- 💻 Full stack developer 
-- 🔬 Computer Science student in the last period
-- 📚 Currently attending the full stack web course at <a href="https://www.driven.com.br/" target="_blank">Driven 
+- 💻 Dev fullstack 
+- 🔬 Estudante de Ciência da Computação no último período
+- 📚 Atualmente frequentando a formação fullstack da <a href="https://www.driven.com.br/" target="_blank">Driven 
 Education</a>
-- 💭 Always looking to improve and learn
-- ♥ Passionate about solving problems with technology
+- 💭 Sempre buscando aprender coisas novas
+- ♥ Apaixonado em resolver problemas com tecnologia
 
-### How to reach me
+### Fale comigo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathw.svg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-wagner-dos-santos-martins-718937141)
 
-### Stack
+### Stack principal
 <div style="display:inline_block">
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -27,13 +27,13 @@ Education</a>
 <br/>
 
 <details>
-    <summary>⚡ Most Used Languages</summary>
+    <summary>⚡ Linguagens que mais utilizo</summary>
     <br/>
     <img alt="most-used" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusW166&theme=dracula&layout=compact"/>
 </details>
 
 <details>
-    <summary>⚡ GitHub Stats</summary>
+    <summary>⚡ Status do GitHub</summary>
     <br/>
     <img alt="stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusW166&show_icons=true&theme=dracula"/>
 </details>
