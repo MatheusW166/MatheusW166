@@ -1,9 +1,7 @@
 <h2 align="center">Olá mundo, eu sou Matheus Wagner 😸</h2>
 
 - 💻 Dev fullstack 
-- 🔬 Estudante de Ciência da Computação no último período
-- 📚 Atualmente frequentando a formação fullstack da <a href="https://www.driven.com.br/" target="_blank">Driven 
-Education</a>
+- 🔬 Concludente do curso de Bacharelado em Ciência da Computação
 - 💭 Sempre buscando aprender coisas novas
 - ♥ Apaixonado em resolver problemas com tecnologia
 
