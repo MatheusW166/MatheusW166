@@ -4,6 +4,7 @@
 - 🔬 Concludente do curso de Bacharelado em Ciência da Computação
 - 💭 Sempre buscando aprender coisas novas
 - ♥ Apaixonado em resolver problemas com tecnologia
+- 📗 Estudando: PHP
 
 ### Fale comigo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathw.svg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-wagner-dos-santos-martins-718937141)
