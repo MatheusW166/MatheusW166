@@ -6,9 +6,6 @@
 - ♥ Apaixonado em resolver problemas com tecnologia
 - 📗 Estudando: PHP
 
-### Fale comigo
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathw.svg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-wagner-dos-santos-martins-718937141)
-
 ### Stack principal
 <div style="display:inline_block">
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -36,3 +33,6 @@
     <br/>
     <img alt="stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusW166&show_icons=true&theme=dracula"/>
 </details>
+
+### Fale comigo
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathw.svg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-wagner-dos-santos-martins-718937141)
