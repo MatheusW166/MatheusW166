@@ -3,7 +3,7 @@
 - 💻 Dev fullstack 
 - 🔬 Concluinte do curso de Bacharelado em Ciência da Computação
 - 💭 Sempre buscando aprender coisas novas
-- ♥ Apaixonado em resolver problemas com tecnologia
+- ❤️ Apaixonado em resolver problemas com tecnologia
 - 📗 Estudando: PHP
 
 ### Stack principal
