@@ -4,6 +4,8 @@
 - 🔬 Concluinte do curso de Bacharelado em Ciência da Computação
 - 💭 Sempre buscando aprender coisas novas
 - ❤️ Apaixonado em resolver problemas com tecnologia
+- 🎮 Entusiasta de jogos
+- 🔪 Admirador de filmes de terror
 - 📗 Estudando: PHP e Oracle
 
 ### Stack principal
