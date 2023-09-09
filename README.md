@@ -4,7 +4,7 @@
 - 🔬 Concluinte do curso de Bacharelado em Ciência da Computação
 - 💭 Sempre buscando aprender coisas novas
 - ❤️ Apaixonado em resolver problemas com tecnologia
-- 📗 Estudando: PHP
+- 📗 Estudando: PHP e Oracle
 
 ### Stack principal
 <div style="display:inline_block">
