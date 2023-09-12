@@ -2,10 +2,10 @@
 
 - 💻 Dev fullstack 
 - 🔬 Concluinte do curso de Bacharelado em Ciência da Computação pelo Instituto Federal Goiano
-- 💭 Sempre buscando aprender coisas novas
 - ❤️ Apaixonado em resolver problemas com tecnologia
 - 🎮 Entusiasta de jogos
 - 🔪 Admirador de filmes de terror
+- 💭 Sempre buscando aprender coisas novas
 - 📗 Estudando: PHP e Oracle
 
 ### Stack principal
