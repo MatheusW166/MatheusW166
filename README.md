@@ -3,8 +3,8 @@
 - 💻 Dev fullstack 
 - 🔬 Concluinte do curso de Bacharelado em Ciência da Computação pelo Instituto Federal Goiano
 - ❤️ Apaixonado em resolver problemas com tecnologia
-- 🎮 Entusiasta de jogos
-- 🔪 Admirador de filmes de terror
+- 🎮 Jogo alguns joguinhos
+- 🔪 Amo filmes de terror
 - 💭 Sempre buscando aprender coisas novas
 - 📗 Estudando: PHP e Oracle
 
