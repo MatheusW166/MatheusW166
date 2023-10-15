@@ -6,7 +6,7 @@
 - 🎮 Jogo alguns joguinhos
 - 🔪 Amo filmes de terror
 - 💭 Sempre buscando aprender coisas novas
-- 📗 Estudando: PHP e Oracle
+- 📗 Estudando: Java e Angular
 
 ### Stack principal
 <div style="display:inline_block">
