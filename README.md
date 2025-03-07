@@ -1,12 +1,7 @@
 <h2 align="center">Olá mundo, eu sou Matheus Wagner 😸</h2>
 
 - 💻 Dev fullstack 
-- 🔬 Concluinte do curso de Bacharelado em Ciência da Computação pelo Instituto Federal Goiano
-- ❤️ Apaixonado em resolver problemas com tecnologia
-- 🎮 Jogo alguns joguinhos
-- 🔪 Amo filmes de terror
-- 💭 Sempre buscando aprender coisas novas
-- 📗 Estudando: Java e Angular
+- 🔬 Bacharel em Ciência da Computação pelo IF Goiano
 
 ### Stack principal
 <div style="display:inline_block">
