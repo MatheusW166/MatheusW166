@@ -1,4 +1,4 @@
-<h2 align="center">Hello World, I'm Matheus Wagner 😸</h2>
+<h2 align="center">Hello, World! I'm Matheus 😸</h2>
 
 - 💻 Fullstack Software Engineer 
 - 🔬 Computer Scientist
