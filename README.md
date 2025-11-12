@@ -1,7 +1,7 @@
 <h2 align="center">Hello World, I'm Matheus Wagner 😸</h2>
 
 - 💻 Fullstack Software Engineer 
-- 🔬 Computer scientist
+- 🔬 Computer Scientist
 
 ### Main Stack
 <div style="display:inline_block">
@@ -19,17 +19,5 @@
 </div>
 <br/>
 
-<details open>
-    <summary>⚡ Most used languages</summary>
-    <br/>
-    <img alt="most-used" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusW166&theme=dracula&layout=compact"/>
-</details>
-
-<details>
-    <summary>⚡ GitHubStatuses</summary>
-    <br/>
-    <img alt="stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusW166&show_icons=true&theme=dracula"/>
-</details>
-
-### Fale comigo
+### Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusw166/)
