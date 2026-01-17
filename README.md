@@ -5,7 +5,7 @@
 - 🌍 Open Source Developer & Maintainer  
 
 ## Open Source
-- 🚀 **TemplaterX** - Docx templating engine focused on incremental rendering and memory efficiency  
+- 🚀 **TemplaterX** - Docx templating engine focused on incremental  
 
 ## Main Stack
 <div style="display:inline_block">
