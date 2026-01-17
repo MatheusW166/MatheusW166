@@ -1,11 +1,11 @@
 # Hello, World! I'm Matheus 😸
 
-- 💻 Fullstack Software Engineer  
-- 🔬 Computer Scientist  
-- 🌍 Open Source Developer & Maintainer  
+- 💻 Fullstack Software Engineer
+- 🔬 Computer Scientist
+- 🌍 Open Source Developer & Maintainer
 
 ## Open Source
-- 🚀 **TemplaterX** - Docx templating engine focused on incremental  
+- 🚀 **TemplaterX** - Docx template engine focused on incremental rendering
 
 ## Main Stack
 <div style="display:inline_block">
